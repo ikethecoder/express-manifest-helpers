@@ -1,6 +1,6 @@
 {
-  "name": "express-manifest-helpers",
-  "version": "0.5.0",
+  "name": "express-manifest-helpers-upgraded",
+  "version": "0.7.0",
   "description": "View helpers to use with an asset manifest",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "compile": "./node_modules/.bin/babel -d lib/ src/",
     "test": "mocha"
   },
-  "repository": "danethurber/express-manifest-helpers",
+  "repository": "ikethecoder/express-manifest-helpers",
   "keywords": [
     "express",
     "connect",
@@ -18,9 +18,9 @@
   "author": "Dane Thurber <dane.thurber@gmail.com> (http://github.com/danethurber)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danethurber/express-manifest-helpers/issues"
+    "url": "https://github.com/ikethecoder/express-manifest-helpers/issues"
   },
-  "homepage": "https://github.com/danethurber/express-manifest-helpers",
+  "homepage": "https://github.com/ikethecoder/express-manifest-helpers",
   "devDependencies": {
     "babel": "^5.4.7",
     "chai": "^2.3.0",
@@ -28,6 +28,6 @@
     "sinon": "^1.14.1"
   },
   "dependencies": {
-    "lodash.assign": "^4.2.0
+    "lodash.assign": "^4.2.0"
   }
 }
