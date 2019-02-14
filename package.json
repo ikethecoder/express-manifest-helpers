@@ -1,6 +1,6 @@
 {
   "name": "express-manifest-helpers-upgraded",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "View helpers to use with an asset manifest",
   "main": "lib/index.js",
   "scripts": {
